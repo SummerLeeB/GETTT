@@ -261,7 +261,7 @@ section.rent {
 } 
 /****** INSIDE style ******/
 section.inside {
-	background-image: url(../img/mainpage/inside/inside_bg.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/GETTT/img/mainpage/inside/inside_bg.png);
 	background-size: cover;
 	background-position: center;
 	height: 1100px;
